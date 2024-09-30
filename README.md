@@ -6,3 +6,4 @@
 - **Camila Takara** – RM: 555418
 
 Acesse o projeto pelo [GitHub Pages](https://mm-dantas.github.io/Sprint3-Web-Dev/).
+ou https://mm-dantas.github.io/Sprint3-Web-Dev/
